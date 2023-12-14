@@ -1,0 +1,28 @@
+{
+  "name": "mixin-classes",
+  "version": "1.0.0",
+  "description": "mixin-classes",
+  "main": "src/main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhennann/mixin-classes.git"
+  },
+  "keywords": [
+    "egg",
+    "egg-born",
+    "cabloy",
+    "mixin-classes"
+  ],
+  "author": "zhennann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhennann/mixin-classes/issues"
+  },
+  "homepage": "https://github.com/zhennann/mixin-classes#readme",
+  "dependencies": {
+    "is": "^3.3.0"
+  }
+}
